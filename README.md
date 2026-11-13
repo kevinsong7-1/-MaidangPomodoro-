@@ -1,2 +1,9 @@
-# MaidangPomodoro
-🚀 和麦当一起向彩虹海出发！一款《星游记》主题的 Windows 番茄钟，陪你专注学习。 | 🚀 Set off for the Rainbow Sea with Maidang! A Windows Pomodoro timer inspired by Starie's.
+# 麦当番茄钟（MaidangPomodoro）
+
+🚀 和麦当一起向彩虹海出发！一款以《星游记》为灵感的 Windows 番茄钟，陪你专注学习、记录每一次努力。
+
+设定好时间，就和麦当一起开始专注吧！学习时可以把它收成桌面右下角的小窗，结束后还能看看自己的专注记录。
+
+解压便携版压缩包，双击 `MaidangPomodoro.exe` 就能打开。愿你的每一次努力，都能离彩虹海更近一点！🌈
+
+2026 年 11 月 13 日，为了庆祝我小时候非常喜欢的动画片《星游记》即将复出，我做了这款番茄钟小软件，致敬下我少年时代心中的彩虹海，也希望往后心中仍怀揣着属于我自己的彩虹海。
